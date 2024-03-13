@@ -1,8 +1,0 @@
-!Title: anti-AD for AdGuard
-!Last modified: Wed 2024-03-14-2
-!Updated: 2024-03-13T17:13:48+00:00
-!Expires: 4 days
-!Homepage: https://anti-ad.net/
-!!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-!Total lines: 1
-||msg.qy.net^
